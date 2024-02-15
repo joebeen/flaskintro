@@ -9,21 +9,21 @@ body {
 .center {
     margin: auto;
     width: 50%;
-    border: 3px solid #73AD21;
+    border:1px solid #73AD21;
     padding: 10px;
 }
 
 table,th,td {
     border: 1px solid black;
     width: 100%;
-    text-align: center;
+    text-align: left;
     
 }
 th,td {
     padding: 5px;
 }
 th {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #042a0f;
+    color: #5adf1f;
 }
 
